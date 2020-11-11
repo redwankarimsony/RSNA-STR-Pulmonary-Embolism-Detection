@@ -1,5 +1,5 @@
 
-# Solution Notebooks: 
+# EDA and Preprocessing Notebook: 
 |Sl. No.| Notebook Name | GitHub Link| Kaggle Live Link|
 |:---|:---|:---|:---|
 | 1. |CNN-GRU Baseline- Stage2 Train+Inference | [GitHub Link](https://github.com/redwankarimsony/RSNA-STR-Pulmonary-Embolism-Detection/blob/main/CNN-GRU%20Baseline-%20Stage2%20Train%2BInference.ipynb)|[Kaggle Live Link](https://www.kaggle.com/redwankarimsony/cnn-gru-baseline-stage2-train-inference)|
