@@ -1,4 +1,4 @@
-![](vhttps://github.com/redwankarimsony/RSNA-STR-Pulmonary-Embolism-Detection/blob/main/cover.png)
+![](https://github.com/redwankarimsony/RSNA-STR-Pulmonary-Embolism-Detection/blob/main/cover.png)
 # EDA and Preprocessing Notebook: 
 |Sl. No.| Notebook Name |  Kaggle Live Link|
 |:---|:---|:---|
