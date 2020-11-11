@@ -1,7 +1,7 @@
 
 # EDA and Preprocessing Notebook: 
 |Sl. No.| Notebook Name |  Kaggle Live Link|
-|:---|:---|:---|:---|
+|:---|:---|:---|
 | 1. |CNN-GRU Baseline- Stage2 Train+Inference |[Kaggle Live Link](https://www.kaggle.com/redwankarimsony/cnn-gru-baseline-stage2-train-inference)|
 | 2. |CT-Scans, DICOM files, Windowing Explained ✔️✔️|[Kaggle Live Link](https://www.kaggle.com/redwankarimsony/ct-scans-dicom-files-windowing-explained)|
 | 3. |RSNA-STR [✔️3D Stacking ✔️3D Plot ✔️Segmentation]|[Kaggle Live Link](https://www.kaggle.com/redwankarimsony/rsna-str-3d-stacking-3d-plot-segmentation)|
